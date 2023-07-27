@@ -1,0 +1,4 @@
+Bundle-Name: CustomerAAAPortlet
+Bundle-SymbolicName: CustomerAAAPortlet
+Bundle-Version: 1.0.0
+Export-Package: CustomerAAAPortlet.constants
